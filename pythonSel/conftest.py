@@ -2,6 +2,7 @@ import os
 
 import pytest
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 driver = None
 
@@ -14,10 +15,12 @@ def pytest_addoption(parser):
 @pytest.fixture( scope="function" )
 def browserInstance(request):
     global driver
+    options = Options()
+    options.add_argument("--incognito")
     browser_name = request.config.getoption( "browser_name" )
     service_obj = Service()
     if browser_name == "chrome":  #firefox
-        driver = webdriver.Chrome( service=service_obj )
+        driver = webdriver.Chrome( service=service_obj, options=options )
     elif browser_name == "firefox":
         driver = webdriver.Firefox( service=service_obj )
 

@@ -1,4 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc3bee3d-9758-4f5c-a732-1a676e314d9c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/data/test_e2eTestFramework.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_e2eTestFramework.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSel/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSel/conftest.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Nagsai-Thumati"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nagsai-Thumati/Pytest-Selenium-Automation.git",
+    "accountId": "0052d08c-1e0b-47db-bf8e-f3a5442c6ef6"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3EaImPXRylKhbcSqQlz34HasvTM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for test_demo1.test_firstprogram.executor": "Run",
+    "Python tests.Python tests in test_SortingTables.py.executor": "Run",
+    "Python tests.Python tests in test_demo1.py.executor": "Run",
+    "Python tests.Python tests in test_demo2.py.executor": "Run",
+    "Python tests.Python tests in test_fixturedemo.py.executor": "Run",
+    "Python tests.Python tests in test_fixturesData.py.executor": "Run",
+    "Python tests.pytest in test_demo1.py.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Python/Git/Pytest-Selenium-Automation/Pytest-Fundamentals-Unit-Testing-Framework-of-Python/PytestsDemo",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python\Git\Pytest-Selenium-Automation\Pytest-Fundamentals-Unit-Testing-Framework-of-Python\PytestsDemo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_demo1.test_firstprogram" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Pytest-Selenium-Automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_demo1.test_firstprogram&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_demo1.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="Pytest-Selenium-Automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (Pytest-Selenium-Automation)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;C:\\Python\\Git\\Pytest-Selenium-Automation\\Pytest-Fundamentals-Unit-Testing-Framework-of-Python\\PytestsDemo\\test_demo1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in test_demo1.py" />
+      <item itemvalue="Python tests.Python tests for test_demo1.test_firstprogram" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_demo1.test_firstprogram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc3bee3d-9758-4f5c-a732-1a676e314d9c" name="Changes" comment="" />
+      <created>1780410412057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780410412057</updated>
+    </task>
+    <servers />
+  </component>
 </project>
